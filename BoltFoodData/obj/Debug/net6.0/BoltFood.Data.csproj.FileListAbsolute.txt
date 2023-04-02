@@ -1,0 +1,15 @@
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\bin\Debug\net6.0\BoltFood.Data.deps.json
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\bin\Debug\net6.0\BoltFood.Data.dll
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\bin\Debug\net6.0\BoltFood.Data.pdb
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\bin\Debug\net6.0\BoltFood.Core.dll
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\bin\Debug\net6.0\BoltFood.Core.pdb
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\obj\Debug\net6.0\BoltFood.Data.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\obj\Debug\net6.0\BoltFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\obj\Debug\net6.0\BoltFood.Data.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\obj\Debug\net6.0\BoltFood.Data.AssemblyInfo.cs
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\obj\Debug\net6.0\BoltFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\obj\Debug\net6.0\BoltFood.Data.csproj.CopyComplete
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\obj\Debug\net6.0\BoltFood.Data.dll
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\obj\Debug\net6.0\refint\BoltFood.Data.dll
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\obj\Debug\net6.0\BoltFood.Data.pdb
+C:\Users\Owner\source\repos\BoltFood.App\BoltFoodData\obj\Debug\net6.0\ref\BoltFood.Data.dll
